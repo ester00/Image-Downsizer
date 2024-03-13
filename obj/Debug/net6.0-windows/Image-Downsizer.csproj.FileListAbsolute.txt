@@ -1,0 +1,15 @@
+C:\Users\ester\Desktop\ParallelPrograming\Image-Downsizer\bin\Debug\net6.0-windows\Image-Downsizer.exe
+C:\Users\ester\Desktop\ParallelPrograming\Image-Downsizer\bin\Debug\net6.0-windows\Image-Downsizer.deps.json
+C:\Users\ester\Desktop\ParallelPrograming\Image-Downsizer\bin\Debug\net6.0-windows\Image-Downsizer.runtimeconfig.json
+C:\Users\ester\Desktop\ParallelPrograming\Image-Downsizer\bin\Debug\net6.0-windows\Image-Downsizer.dll
+C:\Users\ester\Desktop\ParallelPrograming\Image-Downsizer\bin\Debug\net6.0-windows\Image-Downsizer.pdb
+C:\Users\ester\Desktop\ParallelPrograming\Image-Downsizer\obj\Debug\net6.0-windows\Image-Downsizer.csproj.AssemblyReference.cache
+C:\Users\ester\Desktop\ParallelPrograming\Image-Downsizer\obj\Debug\net6.0-windows\Image-Downsizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ester\Desktop\ParallelPrograming\Image-Downsizer\obj\Debug\net6.0-windows\Image-Downsizer.AssemblyInfoInputs.cache
+C:\Users\ester\Desktop\ParallelPrograming\Image-Downsizer\obj\Debug\net6.0-windows\Image-Downsizer.AssemblyInfo.cs
+C:\Users\ester\Desktop\ParallelPrograming\Image-Downsizer\obj\Debug\net6.0-windows\Image-Downsizer.csproj.CoreCompileInputs.cache
+C:\Users\ester\Desktop\ParallelPrograming\Image-Downsizer\obj\Debug\net6.0-windows\Image-Downsizer.dll
+C:\Users\ester\Desktop\ParallelPrograming\Image-Downsizer\obj\Debug\net6.0-windows\refint\Image-Downsizer.dll
+C:\Users\ester\Desktop\ParallelPrograming\Image-Downsizer\obj\Debug\net6.0-windows\Image-Downsizer.pdb
+C:\Users\ester\Desktop\ParallelPrograming\Image-Downsizer\obj\Debug\net6.0-windows\Image-Downsizer.genruntimeconfig.cache
+C:\Users\ester\Desktop\ParallelPrograming\Image-Downsizer\obj\Debug\net6.0-windows\ref\Image-Downsizer.dll
