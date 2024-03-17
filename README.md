@@ -1,1 +1,2 @@
 # Image-Downsizer
+The Image Downsizer is a WinForms application that allows users to downsize images. It provides a simple interface for selecting an image file and specifying a downscaling factor, expressed as a percentage of the original image size. The application preserves the aspect ratio of the image during the downsizing process. Once downscaled, users can download the resulting image, which is saved in PNG format with the downscaling percentage included in the filename. The downsizer offers input validation and error handling to ensure smooth user experience.
